@@ -9,7 +9,7 @@ Uma aplicação de gerenciamento de vendas com frontend e backend, Projeto desen
 
 Lecionado pelo professor Nelio Alves da devSuperior, com algumas das práticas mais ultilizadas no mercado.
 
-Aprendi muito sobre apicações Web, CRUD, APIS e muitas outras coisas. 
+Aprendi muito sobre aplicações Web, CRUD, APIS e muitas outras coisas. 
 
 ## Layout web
 ![Web 1](https://github.com/ElvesNogueira/assets/blob/main/Captura%20de%20tela%202022-12-08%20110018.png)
