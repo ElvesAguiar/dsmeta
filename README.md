@@ -7,7 +7,7 @@ https://dsmeta-elves.netlify.app/(apenas frontend)
 
 Uma aplicação de gerenciamento de vendas com frontend e backend, Projeto desenvolvido na semana Spring React, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-Lecionado pelo professor Nelio Alves da devSuperior, com algumas práticas mais ultilizadas no mercado.
+Lecionado pelo professor Nelio Alves da devSuperior, com algumas das práticas mais ultilizadas no mercado.
 
 Aprendi muito sobre apicações Web, CRUD, APIS e muitas outras coisas. 
 
@@ -53,7 +53,7 @@ Pré-requisitos: npm / yarn
 git clone git@github.com:ElvesNogueira/dsmeta.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd front
 
 # instalar dependências
 yarn install
